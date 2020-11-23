@@ -6,6 +6,6 @@
     <title>Mexojer</title>
 </head>
 <body>
-    <a href="/index.html">Retour</a>
+    <a href="/index.php">Retour</a>
 </body>
 </html>

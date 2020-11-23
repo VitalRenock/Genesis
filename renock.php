@@ -6,7 +6,7 @@
     <title>Renock</title>
 </head>
 <body>
-    <a href="/balisesTexte.html">Les balises de texte</a><br>
-    <a href="/index.html">Retour</a>
+    <a href="/balisesTexte.php">Les balises de texte</a><br>
+    <a href="/index.php">Retour</a>
 </body>
 </html>
