@@ -8,21 +8,16 @@
     <title>Mexojer</title>
 </head>
 <body>
-<<<<<<< HEAD
-    <div class="menu">
-        <h1>Mexojer</h1>
+<div class="menu">
+        <h1>Genesis</h1>
         <nav>
             <ul>
-                <li><a href="/mexojer.html">Mexojer</a></li>
-                <li><a href="/renock.html">Renock</a></li>
-                <li><a href="/index.html">Retour</a></li>
+                <li><a href="/mexojer.php">Mexojer</a></li>
+                <li><a href="/renock.php">Renock</a></li>
+                <li><a href="/index.php">Retour</a></li>
             </ul>
         </nav>
     </div>
 
-
-=======
-    <a href="/index.php">Retour</a>
->>>>>>> main
 </body>
 </html>

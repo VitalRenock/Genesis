@@ -11,10 +11,9 @@
 
     <?php include("header.php"); ?>
 
-    <ul>
-        <li><a href="/renock.php">Renock</a></li>
-        <li><a href="/mexojer.php">Mexojer</a></li>
-    </ul>
+    <br>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit sapiente vitae corporis tempore nostrum? Facilis blanditiis eveniet reprehenderit, ratione voluptate modi enim itaque adipisci quasi atque minima temporibus vel nemo.</p>
+    <br>
 
     <?php include("footer.php"); ?>
 
