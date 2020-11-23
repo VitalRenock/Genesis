@@ -8,6 +8,7 @@
     <title>Mexojer</title>
 </head>
 <body>
+<<<<<<< HEAD
     <div class="menu">
         <h1>Mexojer</h1>
         <nav>
@@ -20,5 +21,8 @@
     </div>
 
 
+=======
+    <a href="/index.php">Retour</a>
+>>>>>>> main
 </body>
 </html>

@@ -8,8 +8,8 @@
 </head>
 <body>
     <ul>
-        <li><a href="/renock.html">Renock</a></li>
-        <li><a href="/mexojer.html">Mexojer</a></li>
+        <li><a href="/renock.php">Renock</a></li>
+        <li><a href="/mexojer.php">Mexojer</a></li>
     </ul>
 </body>
 </html>
