@@ -1,5 +1,6 @@
 header {
     background-color: darkolivegreen;
+    height: 5em;
 }
 
 footer {
@@ -7,13 +8,14 @@ footer {
 }
 
 .menu_global{
-    background-color: black;
+    /* background-color: black; */
     color: white;
     display: flex;
     size: 1em;
 }
 
 nav ul{
+    background-color: black;
     padding: 0px;
     margin: 0px;
     list-style-type: none;
