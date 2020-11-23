@@ -1,7 +1,5 @@
 <header>
-    <div class="header">
-        <h1>Mexo et Renock codent!</h1>
-    </div>
+    <h1>Mexo et Renock codent!</h1>
     <div class="menu_global">
         <nav>
             <ul>
