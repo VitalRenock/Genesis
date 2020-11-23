@@ -1,0 +1,47 @@
+*{  
+    margin:0px;
+    padding:0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+html{
+    height:100%;}
+
+.menu{
+    background-color: black;
+    color: white;
+    display: flex;
+    size: 1em;
+}
+
+nav ul{
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+    position: absolute;
+    right:0;
+}
+
+nav li{
+    display:inline-block;
+    padding: 0px;
+    margin: 0px;
+    width: 100px;
+    height: 33px;
+    text-align: center;
+    line-height: 33px;
+}
+
+nav li a{
+    display: block;
+    text-decoration: none;
+    color: white;
+}
+
+nav li:hover{
+    background-color: grey;
+}
+
+a:active{
+    background-color: grey;
+}
