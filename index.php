@@ -12,7 +12,7 @@
     <?php include("header.php"); ?>
 
     <br>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit sapiente vitae corporis tempore nostrum? Facilis blanditiis eveniet reprehenderit, ratione voluptate modi enim itaque adipisci quasi atque minima temporibus vel nemo.</p>
+    <p class="lorem">Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit sapiente vitae corporis tempore nostrum? Facilis blanditiis eveniet reprehenderit, ratione voluptate modi enim itaque adipisci quasi atque minima temporibus vel nemo.</p>
     <br>
 
     <?php include("footer.php"); ?>
