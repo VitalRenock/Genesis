@@ -9,7 +9,7 @@ html{
 
 header {
     background-color: darkolivegreen;
-    height: 5em;
+    height: 3em;
     text-align: center;
 }
 
@@ -21,6 +21,7 @@ body{
 
 .lorem{
     color: white;
+    padding-left: 2em;
 }
 
 footer {
@@ -34,9 +35,8 @@ footer {
 .menu_global{
     color: white;
     display: flex;
-    size: 1em;
+    height: 2em;
 }
-
 
 nav ul{
     background-color: black;
