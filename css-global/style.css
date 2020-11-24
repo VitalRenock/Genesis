@@ -22,7 +22,6 @@ footer {
 }
 
 .menu_global{
-    /* background-color: black; */
     color: white;
     display: flex;
     size: 1em;
@@ -31,6 +30,7 @@ footer {
 
 nav ul{
     background-color: black;
+    width: 100%;
     padding: 0px;
     margin: 0px;
     list-style-type: none;
