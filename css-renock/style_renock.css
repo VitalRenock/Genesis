@@ -1,0 +1,16 @@
+.BlockRenock {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    padding: auto;
+    border-radius: 5px;
+    background-color: brown;
+    color: wheat;
+    text-align: center;
+    font-weight: bold;
+}
+
+.BlockRenock a {
+    color: wheat;
+    text-decoration: none;
+}
