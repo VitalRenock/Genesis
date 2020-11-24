@@ -1,33 +1,56 @@
-.BlockRenock {
+.RenBlock_Style {
     display: flex;
-    width: 100px;
-    height: 100px;
+    width: min-content;
+    height: min-content;
     margin: 30px;
-    border-radius: 5px;
     background-color: brown;
-    color: wheat;
+    border-radius: 5px;
     text-align: center;
-    vertical-align: middle;
+    color: wheat;
     font-weight: bold;
-    
 }
 
-.BlockRenock:hover {
+.RenBlock_Style:hover {
     background-color: wheat;
     color: black;
 }
 
-.BlockRenock a {
-    color: wheat;
-    text-decoration: none;
+.RenBlock_Auto {
+    /* display: block; */
+    width: auto;
+    height: auto;
+}
+
+.RenBlock_Auto p {
     margin: auto;
-    text-align: center;
 }
 
-.BlockRenock a:hover {
-    color: black;
+.RenBlock_Small {
+    /* display: block; */
+    width: 100px;
+    height: 100px;
 }
 
-.TextRenock {
-    color: wheat;
+.RenBlock_Small p {
+    margin: auto;
+}
+
+.RenBlock_Medium {
+    /* display: block; */
+    width: 300px;
+    height: 300px;
+}
+
+.RenBlock_Medium p {
+    margin: auto;
+}
+
+.RenBlock_Large {
+    /* display: block; */
+    width: 500px;
+    height: 500px;
+}
+
+.RenBlock_Large p {
+    margin: auto;
 }
