@@ -275,3 +275,5 @@ database/mysql/sys/x@0024wait_classes_global_by_latency.frm
 database/mysql/sys/x@0024waits_by_host_by_latency.frm
 database/mysql/sys/x@0024waits_by_user_by_latency.frm
 database/mysql/sys/x@0024waits_global_by_latency.frm
+database/mysql/ibtmp1
+database/mysql/DESKTOP-AGACNQI.pid
