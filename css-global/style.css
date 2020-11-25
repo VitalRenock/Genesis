@@ -1,30 +1,27 @@
-*{
+* {
     margin: 0px;
     padding: 0px;
 }
 
-html{
+html {
     height: 100%;
 }
 
 header {
-    position: fixed;
+    display: flex;
+    /* position: fixed; */
     background-color: darkolivegreen;
     width: 100%;
     height: 3em;
     text-align: center;
 }
 
-body{
+
+body {
     background-image: url("/img/Background.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-}
-
-.lorem{
-    color: white;
-    padding-left: 2em;
 }
 
 footer {
@@ -35,50 +32,15 @@ footer {
     width:100%;
 }
 
-.menu_global{
-    display: flex;
-    color: white;
-    height: 2em;
+a {
+    font-weight: bold;
+    color: coral;
 }
 
-nav ul{
-    background-color: black;
-    width: 100%;
-    padding: 0px;
-    margin: 0px;
-    list-style-type: none;
-    position: absolute;
-    right:0;
-    width: 100%;
-    text-align: center;
-}
-
-nav li{
-    display:inline-block;
-    padding: 0px;
-    margin: 0px;
-    width: 100px;
-    height: 33px;
-    text-align: center;
-    line-height: 33px;
-}
-
-nav li a{
-    display: block;
-    text-decoration: none;
-    color: white;
-}
-
-nav li:hover{
-    background-color: grey;
-    color: black;
+a:link {
     text-decoration: none;
 }
 
-a:link{
-    text-decoration: none;
-}
-
-a:hover{
+a:hover {
     color:black;
 }

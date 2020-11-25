@@ -5,8 +5,8 @@
     <nav>
         <ul>
             <li><a href="/index.php">Accueil</a></li>
-            <li><a href="/mexojer.php">Mexojer</a></li>
-            <li><a href="/renock.php">Renock</a></li>
+            <li><a href="/Mexojer/mexojer.php">Mexojer</a></li>
+            <li><a href="/Renock/renock.php">Renock</a></li>
         </ul>
     </nav>
 </div>
