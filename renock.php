@@ -35,6 +35,13 @@
             </div>
         </div>
     </a>
+    <a href="/renockJouePHP.php">
+        <div class="RenBlock_Style">
+            <div class="RenBlock_Small">
+                <p>Renock joue avec le php</p><br>
+            </div>
+        </div>
+    </a>
 
     <!-- Footer -->
     <?php include("footer.php"); ?>
