@@ -15,13 +15,7 @@
 
         <div class="menu">
             <h1>Genesis</h1>
-            <nav>
-                <ul>
-                    <li><a href="/Mexojer/mexojer.php">Mexojer</a></li>
-                    <li><a href="/Renock/renock.php">Renock</a></li>
-                    <li><a href="/index.php">Retour</a></li>
-                </ul>
-            </nav>
+            <a href="fizzbuzz.php">Fizzbuzz</a>
         </div>
 
         <?php include("../includes/footer.php"); ?>
